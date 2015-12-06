@@ -2,6 +2,10 @@
 
 This file is a manually maintained list of changes for each release. Feel free to add your changes here when sending pull requests. Also send corrections if you spot any mistakes.
 
+## 2.x Branch (Unreleased)
+
+* Upgrade bluebird to 3.0.6.
+
 ## Master Branch (Unreleased)
 
 ## v1.14.0 - January 4, 2016
